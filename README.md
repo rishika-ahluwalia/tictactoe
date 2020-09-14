@@ -1,1 +1,1 @@
-# tictactoe.github.io
+# https://tictactoe.github.io
